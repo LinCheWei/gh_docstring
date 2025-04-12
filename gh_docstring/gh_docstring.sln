@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ghDocstring", "ghDocstring.csproj", "{EC2F0197-7DFD-4BFE-9228-C3F016831DDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocStringWindowLibrary", "..\DocStringWindowLibrary\DocStringWindowLibrary.csproj", "{C1401C5D-C863-47A0-80FA-FE43770D7E18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC2F0197-7DFD-4BFE-9228-C3F016831DDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC2F0197-7DFD-4BFE-9228-C3F016831DDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC2F0197-7DFD-4BFE-9228-C3F016831DDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC2F0197-7DFD-4BFE-9228-C3F016831DDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1401C5D-C863-47A0-80FA-FE43770D7E18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1401C5D-C863-47A0-80FA-FE43770D7E18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1401C5D-C863-47A0-80FA-FE43770D7E18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1401C5D-C863-47A0-80FA-FE43770D7E18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

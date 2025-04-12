@@ -1,0 +1,59 @@
+﻿<Window x:Class="DocStringWindowLibrary.RemarkWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:local="clr-namespace:DocStringWindowLibrary"
+        mc:Ignorable="d"
+        Title="Read/Write UI" Height="350" Width="400" >
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*"/>
+            <!-- More space for Read section -->
+            <RowDefinition Height="*"/>
+            <!-- Less space for Write section -->
+        </Grid.RowDefinitions>
+        <!-- Read Section -->
+        <!--<GroupBox Header="Read">
+            <Grid>
+                <DataGrid Name="dataGrid" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="5">
+                    --><!-- Define custom columns for GUID and Remark --><!--
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="GUID" Binding="{Binding Key}" Width="*"/>
+                        <DataGridTextColumn Header="Remark" Binding="{Binding Value}" Width="*"/>
+                    </DataGrid.Columns>
+                </DataGrid>
+            </Grid>
+        </GroupBox>-->
+
+
+
+        <GroupBox Header="Read" Name="readGroupBox">
+            <Grid>
+                <DataGrid Name="dataGrid" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="5" AutoGenerateColumns="False">
+                    <DataGrid.Columns>
+
+                        <DataGridTextColumn Header="GUID" Binding="{Binding Key}" Width="*" />
+                        <DataGridTextColumn Header="Remark" Binding="{Binding Value}" Width="*" />
+                    </DataGrid.Columns>
+                </DataGrid>
+            </Grid>
+        </GroupBox>
+        <!-- Write Section -->
+        <GroupBox Header="Write" Name="writeGroupBox" Grid.Row="1" Margin="0,10,0,0">
+            <Grid Margin="5">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <StackPanel Orientation="Horizontal" Grid.Row="0">
+                    <TextBlock Text="Remark:" Width="60" VerticalAlignment="Center"/>
+                    <TextBox Name="txtWriteRemark" Width="280" VerticalAlignment="Center"/>
+                </StackPanel>
+                <Button Content="OK" Width="80" Grid.Row="1"
+                        Margin="0,10,0,0" HorizontalAlignment="Right"
+                        Click="Button_Click"/>
+            </Grid>
+        </GroupBox>
+    </Grid>
+</Window>

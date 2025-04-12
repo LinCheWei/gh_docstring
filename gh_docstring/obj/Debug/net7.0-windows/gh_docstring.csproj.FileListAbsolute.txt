@@ -1,0 +1,14 @@
+C:\Users\chewei\Documents\GitHub\gh_docstring\gh_docstring\bin\Debug\net7.0-windows\gh_docstring.deps.json
+C:\Users\chewei\Documents\GitHub\gh_docstring\gh_docstring\bin\Debug\net7.0-windows\gh_docstring.runtimeconfig.json
+C:\Users\chewei\Documents\GitHub\gh_docstring\gh_docstring\bin\Debug\net7.0-windows\gh_docstring.gha
+C:\Users\chewei\Documents\GitHub\gh_docstring\gh_docstring\bin\Debug\net7.0-windows\gh_docstring.pdb
+C:\Users\chewei\Documents\GitHub\gh_docstring\gh_docstring\obj\Debug\net7.0-windows\gh_docstring.csproj.AssemblyReference.cache
+C:\Users\chewei\Documents\GitHub\gh_docstring\gh_docstring\obj\Debug\net7.0-windows\gh_docstring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chewei\Documents\GitHub\gh_docstring\gh_docstring\obj\Debug\net7.0-windows\gh_docstring.AssemblyInfoInputs.cache
+C:\Users\chewei\Documents\GitHub\gh_docstring\gh_docstring\obj\Debug\net7.0-windows\gh_docstring.AssemblyInfo.cs
+C:\Users\chewei\Documents\GitHub\gh_docstring\gh_docstring\obj\Debug\net7.0-windows\gh_docstring.csproj.CoreCompileInputs.cache
+C:\Users\chewei\Documents\GitHub\gh_docstring\gh_docstring\obj\Debug\net7.0-windows\gh_docstring.gha
+C:\Users\chewei\Documents\GitHub\gh_docstring\gh_docstring\obj\Debug\net7.0-windows\refint\gh_docstring.gha
+C:\Users\chewei\Documents\GitHub\gh_docstring\gh_docstring\obj\Debug\net7.0-windows\gh_docstring.pdb
+C:\Users\chewei\Documents\GitHub\gh_docstring\gh_docstring\obj\Debug\net7.0-windows\gh_docstring.genruntimeconfig.cache
+C:\Users\chewei\Documents\GitHub\gh_docstring\gh_docstring\obj\Debug\net7.0-windows\ref\gh_docstring.gha
