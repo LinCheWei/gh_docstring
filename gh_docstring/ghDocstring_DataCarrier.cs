@@ -38,7 +38,6 @@ namespace ghDocstring
         /// </summary>
         protected override void RegisterOutputParams(GH_Component.GH_OutputParamManager pManager)
         {
-            pManager.AddTextParameter("output", "output", "test", GH_ParamAccess.item);
         }
 
 
@@ -50,7 +49,6 @@ namespace ghDocstring
         /// to store data in output parameters.</param>
         protected override void SolveInstance(IGH_DataAccess DA)
         {
-            DA.SetData(0, ghDocstring_Data.metaData);
         }
 
         public override bool Write(GH_IWriter writer)

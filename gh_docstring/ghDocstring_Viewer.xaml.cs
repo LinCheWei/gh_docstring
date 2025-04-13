@@ -31,6 +31,7 @@ namespace ghDocstring
             timer.Enabled = true;
             tags.Add("Tag1");
             tags.Add("Tag2");
+            this.Topmost = true;
             InitializeComponent();
         }
 

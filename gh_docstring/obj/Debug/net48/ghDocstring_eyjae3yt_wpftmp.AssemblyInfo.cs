@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Description of ghDocstring")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+9533c75e97b5b2a6c2a87c35234f4e2681ed82d8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+ed77862ec694a7d69a8c69fd7a8c096cd3da24a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("ghDocstring")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ghDocstring")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
