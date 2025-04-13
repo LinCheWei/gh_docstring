@@ -8,14 +8,16 @@ using System.Collections.Generic;
 using System.Drawing;
 using System.Linq;
 using System.Windows.Forms;
-using DocStringWindowLibrary;
+using static Grasshopper.Kernel.GH_Document;
+using System.Timers;
 
 namespace ghDocstring
 {
-    public class ghDOC_AssemblyPriority : GH_AssemblyPriority
+    public class ghDocstring_AssemblyPriority : GH_AssemblyPriority
     {
         private ToolStripMenuItem toolStripMenuItem; // New ToolStripMenuItem to be added to the menu
         private bool isSubMenuAdded = false; // A flag to track if the sub-menu items are already added
+
         public override GH_LoadingInstruction PriorityLoad()
         {
             Instances.CanvasCreated += new Instances.CanvasCreatedEventHandler(this.RegisterNewMenuItems);
@@ -58,11 +60,11 @@ namespace ghDocstring
             }
         }
 
+
+
         private void Clear_Click(object sender, EventArgs e)
         {
             // Handle the click event of the sub-menu item here
-            // For example:
-            ToolStripMenuItem clickedItem = (ToolStripMenuItem)sender;
             ghDocstring_Data.metaData.Clear();
         }
 
@@ -70,6 +72,12 @@ namespace ghDocstring
         {
             GH_Document doc = Instances.ActiveCanvas.Document;
 
+            // Check if the document is null
+            if (doc == null)
+            {
+                MessageBox.Show("No active document found.");
+                return;
+            }
             // Check if datacarrier already exists
             bool exists = doc.Objects.OfType<IGH_Component>()
                 .Any(comp => comp.GetType() == typeof(ghDocstring_DataCarrier));
@@ -83,23 +91,26 @@ namespace ghDocstring
                 doc.AddObject(dataCarrier, true);
             }
 
-            if (doc.SelectedObjects().Count == 1)
-            {
-                var obj = doc.SelectedObjects().First();
-                Guid guid = obj.InstanceGuid;
-                RemarkWindow remarkWindow = new RemarkWindow(ghDocstring_Data.metaData, true);
-                remarkWindow.ShowDialog();
-                ghDocstring_Data.userInput = remarkWindow.InputRemark;
-                if (!string.IsNullOrEmpty(ghDocstring_Data.userInput))
-                {
-                    ghDocstring_Data.metaData[guid.ToString()] = ghDocstring_Data.userInput;
-                }
-            }
-            else
-            {
-                RemarkWindow remarkWindow = new RemarkWindow(ghDocstring_Data.metaData, false);
-                remarkWindow.ShowDialog();
-            }
+            Viewer viewer = new Viewer();
+            viewer.Show();
+
+            //if (doc.SelectedObjects().Count == 1)
+            //{
+            //    var obj = doc.SelectedObjects().First();
+            //    Guid guid = obj.InstanceGuid;
+            //    RemarkWindow remarkWindow = new RemarkWindow(ghDocstring_Data.metaData, true);
+            //    remarkWindow.ShowDialog();
+            //    ghDocstring_Data.userInput = remarkWindow.InputRemark;
+            //    if (!string.IsNullOrEmpty(ghDocstring_Data.userInput))
+            //    {
+            //        ghDocstring_Data.metaData[guid.ToString()] = ghDocstring_Data.userInput;
+            //    }
+            //}
+            //else
+            //{
+            //    RemarkWindow remarkWindow = new RemarkWindow(ghDocstring_Data.metaData, false);
+            //    remarkWindow.ShowDialog();
+            //}
         }
     }
 }

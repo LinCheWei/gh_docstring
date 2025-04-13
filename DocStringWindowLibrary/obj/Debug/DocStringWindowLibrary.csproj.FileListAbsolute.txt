@@ -9,3 +9,5 @@ C:\Users\chewei\Documents\GitHub\gh_docstring\DocStringWindowLibrary\obj\Debug\D
 C:\Users\chewei\Documents\GitHub\gh_docstring\DocStringWindowLibrary\obj\Debug\DocStringWindowLibrary.csproj.CoreCompileInputs.cache
 C:\Users\chewei\Documents\GitHub\gh_docstring\DocStringWindowLibrary\obj\Debug\DocStringWindowLibrary.dll
 C:\Users\chewei\Documents\GitHub\gh_docstring\DocStringWindowLibrary\obj\Debug\DocStringWindowLibrary.pdb
+C:\Users\chewei\Documents\GitHub\gh_docstring\DocStringWindowLibrary\obj\Debug\Viewer.baml
+C:\Users\chewei\Documents\GitHub\gh_docstring\DocStringWindowLibrary\obj\Debug\Viewer.g.cs

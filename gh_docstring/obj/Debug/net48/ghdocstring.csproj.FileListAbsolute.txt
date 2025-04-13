@@ -20,3 +20,9 @@ C:\Users\chewei\Documents\GitHub\gh_docstring\gh_docstring\bin\Debug\net48\Syste
 C:\Users\chewei\Documents\GitHub\gh_docstring\gh_docstring\bin\Debug\net48\DocStringWindowLibrary.dll
 C:\Users\chewei\Documents\GitHub\gh_docstring\gh_docstring\bin\Debug\net48\DocStringWindowLibrary.pdb
 C:\Users\chewei\Documents\GitHub\gh_docstring\gh_docstring\obj\Debug\net48\ghDocstr.ADE773C0.Up2Date
+C:\Users\chewei\Documents\GitHub\gh_docstring\gh_docstring\obj\Debug\net48\ghDocstring.sourcelink.json
+C:\Users\chewei\Documents\GitHub\gh_docstring\gh_docstring\obj\Debug\net48\ghDocstring_Viewer.g.cs
+C:\Users\chewei\Documents\GitHub\gh_docstring\gh_docstring\obj\Debug\net48\ghDocstring_MarkupCompile.cache
+C:\Users\chewei\Documents\GitHub\gh_docstring\gh_docstring\obj\Debug\net48\ghDocstring_MarkupCompile.lref
+C:\Users\chewei\Documents\GitHub\gh_docstring\gh_docstring\obj\Debug\net48\ghDocstring_Viewer.baml
+C:\Users\chewei\Documents\GitHub\gh_docstring\gh_docstring\obj\Debug\net48\ghDocstring.g.resources
