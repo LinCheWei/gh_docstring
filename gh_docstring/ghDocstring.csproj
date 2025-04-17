@@ -44,11 +44,6 @@
     <Reference Include="$(PkgMicrosoft_NETFramework_ReferenceAssemblies_net48)\build\.NETFramework\v4.8\System.Windows.Forms.dll" Private="False" />
     <PackageReference Include="System.Drawing.Common" Version="7.0.0" ExcludeAssets="runtime" />
   </ItemGroup>
-  <ItemGroup>
-    <Reference Include="DocStringWindowLibrary">
-      <HintPath>..\DocStringWindowLibrary\bin\Debug\DocStringWindowLibrary.dll</HintPath>
-    </Reference>
-  </ItemGroup>
 
   <Target Name="CopyPdbForMonoDebugging" AfterTargets="AfterBuild">
     <!-- Enable debugging in Rhino 6/7 on Mac -->

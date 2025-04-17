@@ -1,0 +1,13 @@
+C:\Users\chewei\Documents\GitHub\gh_docstring\DocStringWindowLibrary\bin\Release\DocStringWindowLibrary.dll
+C:\Users\chewei\Documents\GitHub\gh_docstring\DocStringWindowLibrary\bin\Release\DocStringWindowLibrary.pdb
+C:\Users\chewei\Documents\GitHub\gh_docstring\DocStringWindowLibrary\obj\Release\DocStringWindowLibrary.csproj.AssemblyReference.cache
+C:\Users\chewei\Documents\GitHub\gh_docstring\DocStringWindowLibrary\obj\Release\RamarkWindow.g.cs
+C:\Users\chewei\Documents\GitHub\gh_docstring\DocStringWindowLibrary\obj\Release\Viewer.g.cs
+C:\Users\chewei\Documents\GitHub\gh_docstring\DocStringWindowLibrary\obj\Release\DocStringWindowLibrary_MarkupCompile.cache
+C:\Users\chewei\Documents\GitHub\gh_docstring\DocStringWindowLibrary\obj\Release\DocStringWindowLibrary_MarkupCompile.lref
+C:\Users\chewei\Documents\GitHub\gh_docstring\DocStringWindowLibrary\obj\Release\RamarkWindow.baml
+C:\Users\chewei\Documents\GitHub\gh_docstring\DocStringWindowLibrary\obj\Release\Viewer.baml
+C:\Users\chewei\Documents\GitHub\gh_docstring\DocStringWindowLibrary\obj\Release\DocStringWindowLibrary.g.resources
+C:\Users\chewei\Documents\GitHub\gh_docstring\DocStringWindowLibrary\obj\Release\DocStringWindowLibrary.csproj.CoreCompileInputs.cache
+C:\Users\chewei\Documents\GitHub\gh_docstring\DocStringWindowLibrary\obj\Release\DocStringWindowLibrary.dll
+C:\Users\chewei\Documents\GitHub\gh_docstring\DocStringWindowLibrary\obj\Release\DocStringWindowLibrary.pdb

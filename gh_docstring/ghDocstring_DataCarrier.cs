@@ -1,11 +1,7 @@
 using System;
 using System.Collections.Generic;
-
-using Grasshopper;
 using Grasshopper.Kernel;
-using Rhino.Geometry;
 using GH_IO.Serialization;
-using System.Drawing.Printing;
 using System.Text.Json;
 
 namespace ghDocstring

@@ -70,7 +70,7 @@ namespace ghDocstring {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/ghDocstring;component/ghdocstring_viewer.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/ghDocstring;V1.0.0.0;component/ghdocstring_viewer.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\ghDocstring_Viewer.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

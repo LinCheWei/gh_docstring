@@ -2,15 +2,10 @@
 using Grasshopper.GUI;
 using Grasshopper.GUI.Canvas;
 using Grasshopper.Kernel;
-using Grasshopper.Kernel.Special;
 using System;
-using System.Collections.Generic;
 using System.Drawing;
 using System.Linq;
 using System.Windows.Forms;
-using static Grasshopper.Kernel.GH_Document;
-using System.Timers;
-
 namespace ghDocstring
 {
     public class ghDocstring_AssemblyPriority : GH_AssemblyPriority

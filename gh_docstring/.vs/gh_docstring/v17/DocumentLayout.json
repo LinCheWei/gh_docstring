@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\chewei\\Documents\\GitHub\\gh_docstring\\gh_docstring\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EC2F0197-7DFD-4BFE-9228-C3F016831DDF}|ghDocstring.csproj|c:\\users\\chewei\\documents\\github\\gh_docstring\\gh_docstring\\ghdocstring_datacarrier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC2F0197-7DFD-4BFE-9228-C3F016831DDF}|ghDocstring.csproj|solutionrelative:ghdocstring_datacarrier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC2F0197-7DFD-4BFE-9228-C3F016831DDF}|ghDocstring.csproj|c:\\users\\chewei\\documents\\github\\gh_docstring\\gh_docstring\\ghdocstring_viewer.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC2F0197-7DFD-4BFE-9228-C3F016831DDF}|ghDocstring.csproj|solutionrelative:ghdocstring_viewer.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EC2F0197-7DFD-4BFE-9228-C3F016831DDF}|ghDocstring.csproj|c:\\users\\chewei\\documents\\github\\gh_docstring\\gh_docstring\\ghdocstring_assemblypriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2F0197-7DFD-4BFE-9228-C3F016831DDF}|ghDocstring.csproj|solutionrelative:ghdocstring_assemblypriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EC2F0197-7DFD-4BFE-9228-C3F016831DDF}|ghDocstring.csproj|c:\\users\\chewei\\documents\\github\\gh_docstring\\gh_docstring\\ghdocstring_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC2F0197-7DFD-4BFE-9228-C3F016831DDF}|ghDocstring.csproj|solutionrelative:ghdocstring_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC2F0197-7DFD-4BFE-9228-C3F016831DDF}|ghDocstring.csproj|c:\\users\\chewei\\documents\\github\\gh_docstring\\gh_docstring\\ghdocstring_assemblypriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC2F0197-7DFD-4BFE-9228-C3F016831DDF}|ghDocstring.csproj|solutionrelative:ghdocstring_assemblypriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EC2F0197-7DFD-4BFE-9228-C3F016831DDF}|ghDocstring.csproj|c:\\users\\chewei\\documents\\github\\gh_docstring\\gh_docstring\\ghdocstringinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2F0197-7DFD-4BFE-9228-C3F016831DDF}|ghDocstring.csproj|solutionrelative:ghdocstringinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2F0197-7DFD-4BFE-9228-C3F016831DDF}|ghDocstring.csproj|c:\\users\\chewei\\documents\\github\\gh_docstring\\gh_docstring\\ghdocstring_viewer.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2F0197-7DFD-4BFE-9228-C3F016831DDF}|ghDocstring.csproj|solutionrelative:ghdocstring_viewer.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2F0197-7DFD-4BFE-9228-C3F016831DDF}|ghDocstring.csproj|c:\\users\\chewei\\documents\\github\\gh_docstring\\gh_docstring\\ghdocstring_datacarrier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2F0197-7DFD-4BFE-9228-C3F016831DDF}|ghDocstring.csproj|solutionrelative:ghdocstring_datacarrier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,59 +33,73 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ghDocstring_DataCarrier.cs",
-              "DocumentMoniker": "C:\\Users\\chewei\\Documents\\GitHub\\gh_docstring\\gh_docstring\\ghDocstring_DataCarrier.cs",
-              "RelativeDocumentMoniker": "ghDocstring_DataCarrier.cs",
-              "ToolTip": "C:\\Users\\chewei\\Documents\\GitHub\\gh_docstring\\gh_docstring\\ghDocstring_DataCarrier.cs",
-              "RelativeToolTip": "ghDocstring_DataCarrier.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAkwDIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T08:20:29.64Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ghDocstring_Data.cs",
               "DocumentMoniker": "C:\\Users\\chewei\\Documents\\GitHub\\gh_docstring\\gh_docstring\\ghDocstring_Data.cs",
               "RelativeDocumentMoniker": "ghDocstring_Data.cs",
               "ToolTip": "C:\\Users\\chewei\\Documents\\GitHub\\gh_docstring\\gh_docstring\\ghDocstring_Data.cs",
               "RelativeToolTip": "ghDocstring_Data.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T03:44:59.164Z",
+              "WhenOpened": "2025-04-17T09:05:43.291Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ghDocstring_Viewer.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\chewei\\Documents\\GitHub\\gh_docstring\\gh_docstring\\ghDocstring_Viewer.xaml.cs",
-              "RelativeDocumentMoniker": "ghDocstring_Viewer.xaml.cs",
-              "ToolTip": "C:\\Users\\chewei\\Documents\\GitHub\\gh_docstring\\gh_docstring\\ghDocstring_Viewer.xaml.cs",
-              "RelativeToolTip": "ghDocstring_Viewer.xaml.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAgwCEAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T03:32:18.785Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "ghDocstring_AssemblyPriority.cs",
               "DocumentMoniker": "C:\\Users\\chewei\\Documents\\GitHub\\gh_docstring\\gh_docstring\\ghDocstring_AssemblyPriority.cs",
               "RelativeDocumentMoniker": "ghDocstring_AssemblyPriority.cs",
               "ToolTip": "C:\\Users\\chewei\\Documents\\GitHub\\gh_docstring\\gh_docstring\\ghDocstring_AssemblyPriority.cs",
               "RelativeToolTip": "ghDocstring_AssemblyPriority.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T16:36:10.755Z"
+              "WhenOpened": "2025-04-17T09:05:41.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ghDocstringInfo.cs",
+              "DocumentMoniker": "C:\\Users\\chewei\\Documents\\GitHub\\gh_docstring\\gh_docstring\\ghDocstringInfo.cs",
+              "RelativeDocumentMoniker": "ghDocstringInfo.cs",
+              "ToolTip": "C:\\Users\\chewei\\Documents\\GitHub\\gh_docstring\\gh_docstring\\ghDocstringInfo.cs",
+              "RelativeToolTip": "ghDocstringInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T09:05:36.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ghDocstring_Viewer.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\chewei\\Documents\\GitHub\\gh_docstring\\gh_docstring\\ghDocstring_Viewer.xaml.cs",
+              "RelativeDocumentMoniker": "ghDocstring_Viewer.xaml.cs",
+              "ToolTip": "C:\\Users\\chewei\\Documents\\GitHub\\gh_docstring\\gh_docstring\\ghDocstring_Viewer.xaml.cs",
+              "RelativeToolTip": "ghDocstring_Viewer.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T09:05:30.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ghDocstring_DataCarrier.cs",
+              "DocumentMoniker": "C:\\Users\\chewei\\Documents\\GitHub\\gh_docstring\\gh_docstring\\ghDocstring_DataCarrier.cs",
+              "RelativeDocumentMoniker": "ghDocstring_DataCarrier.cs",
+              "ToolTip": "C:\\Users\\chewei\\Documents\\GitHub\\gh_docstring\\gh_docstring\\ghDocstring_DataCarrier.cs",
+              "RelativeToolTip": "ghDocstring_DataCarrier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T08:20:29.64Z",
+              "EditorCaption": ""
             }
           ]
         }
